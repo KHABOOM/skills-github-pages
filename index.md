@@ -1,5 +1,5 @@
 ---
 title: Welcome to my blog
-description :My homepage should look good enough
+description: My homepage should look good enough
 ---
 
